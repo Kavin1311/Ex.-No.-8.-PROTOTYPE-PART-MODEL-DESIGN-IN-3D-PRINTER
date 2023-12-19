@@ -46,6 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/Kavin1311/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145695724/0816c369-a7a9-4ce3-97a4-e28640a1da0b)
 
 ### Name:
 ### Register Number:
