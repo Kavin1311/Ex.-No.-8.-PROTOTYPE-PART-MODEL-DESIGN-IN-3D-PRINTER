@@ -48,7 +48,7 @@
 ## Output:
 ![image](https://github.com/Kavin1311/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145695724/cbc37af4-4165-4042-b11b-94c64c94a28a)
 
-![image](https://github.com/Kavin1311/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145695724/db5a9901-3c9c-4729-a13b-aa4a138e6d69)
+![image](https://github.com/Kavin1311/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/145695724/db5a9901-3c9c-4729-a13b-aa4a138e6d69).
 
 
 
